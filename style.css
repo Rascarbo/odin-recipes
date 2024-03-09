@@ -1,0 +1,65 @@
+body{
+    background-color: gray;
+}
+
+h1{
+    font-family: Arial;
+    color: blueviolet;
+}
+
+a{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:black;
+    color:aqua;
+    font-size: 20px;
+}
+
+.title{
+    font-family: Verdana;
+    color: darkred;
+}
+
+p,.title,.center{
+    text-align: center;
+}
+
+.center li{
+    color: bisque;
+}
+
+.title2{
+    background-color:blue;
+    color:firebrick;
+    font-family:Courier;
+}
+
+.left{
+    text-align: left;
+}
+
+.right{
+    text-align: right;
+}
+
+.title2.right{
+    background-color:firebrick;
+    color:blue;
+    font-family:'Trebuchet MS';
+}
+
+#justify{
+    text-align: justify;
+}
+
+.aqua{
+    color: aqua;
+}
+
+#justify li{
+    background-color: burlywood;
+    font-size: 16px;
+}
+
+.bcolor{
+    background-color:aquamarine;
+}
