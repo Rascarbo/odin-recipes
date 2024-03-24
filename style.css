@@ -7,11 +7,31 @@ h1{
     color: blueviolet;
 }
 
+.tbox{
+    margin: 0 auto;
+    border-left: 2px dotted blue;
+    border-bottom: 2px solid blue;
+    width: 250px;
+    padding: 5px;
+}
+
 a{
     font-family: 'Times New Roman', Times, serif;
     background-color:black;
     color:aqua;
     font-size: 20px;
+    border: 3px darkred solid;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+
+.indexul{
+    box-sizing: border-box;
+    margin: 30px auto;
+    width: 250px;
+    height: auto;
+
 }
 
 .title{
